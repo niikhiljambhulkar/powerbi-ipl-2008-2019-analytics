@@ -5,37 +5,9 @@ A collection of interactive Power BI dashboards focused on business intelligence
 
 This repository contains interactive Power BI dashboards created for data analytics and business intelligence portfolio projects.
 
-## Projects Included
+## Project Included
 
-### 1. E-Commerce Analytics Dashboard
-
-An end-to-end business analytics dashboard built using Power BI to analyze:
-
-* Sales performance
-* Profitability
-* Customer behavior
-* Product performance
-* Regional trends
-
-#### Features
-
-* KPI Cards
-* Interactive slicers
-* Drill-through analysis
-* Product and customer insights
-* Dynamic filtering
-* Business storytelling visuals
-
-#### Tools Used
-
-* Power BI
-* DAX
-* Data Modeling
-* Data Visualization
-
----
-
-### 2. IPL Analytics Dashboard
+## IPL Analytics Dashboard
 
 A sports analytics dashboard focused on Indian Premier League (IPL) cricket analysis.
 
@@ -83,3 +55,5 @@ A sports analytics dashboard focused on Indian Premier League (IPL) cricket anal
 <img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/c873cfd0-3919-4311-8741-f2731fe1aa3a" />
 
 <img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/9e0d4c74-ecdf-4657-b263-f3945e1d392e" />
+
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/04955146-523d-4e0d-a278-f9bf2c7ab34b" />
